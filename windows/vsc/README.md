@@ -1,6 +1,6 @@
 # Windows Visual Studio Code
 
-Here you are able to find my vsc extention list, theme and icons...
+Here you are able to find my vsc extention list, theme and icons... For the moment I dont use keybinding but I want to share those parameters
 
 ### Extensions
 
