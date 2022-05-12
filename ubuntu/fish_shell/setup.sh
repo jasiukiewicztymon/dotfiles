@@ -16,3 +16,5 @@ sudo apt-get install manpages-dev -y
 sudo apt install python3.8 -y
 
 sudo apt install nodejs -y
+
+sudo apt install git -y
