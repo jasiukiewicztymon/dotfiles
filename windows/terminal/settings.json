@@ -32,11 +32,13 @@
     "copyFormatting": "none",
     "copyOnSelect": false,
     "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+    "language": "fr-FR",
     "profiles": 
     {
         "defaults": 
         {
             "backgroundImage": "C:\\Users\\Jasiu\\Downloads\\f16fedc86686146624897737cf4338d8.jpg",
+            "backgroundImageOpacity": 0.80000000000000004,
             "colorScheme": "One Half Dark",
             "font": 
             {
@@ -47,9 +49,13 @@
         [
             {
                 "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                "font": 
+                {
+                    "face": "CaskaydiaCove NF"
+                },
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
-                "hidden": false,
-                "name": "Windows PowerShell"
+                "name": "Windows PowerShell",
+                "useAcrylic": true
             },
             {
                 "commandline": "%SystemRoot%\\System32\\cmd.exe",
@@ -76,10 +82,26 @@
                 "source": "Windows.Terminal.VisualStudio"
             },
             {
+                "font": 
+                {
+                    "face": "CaskaydiaCove NF"
+                },
                 "guid": "{33aae145-341b-5ce4-be9b-081e12a1300a}",
                 "hidden": false,
                 "name": "Developer PowerShell for VS 2022",
                 "source": "Windows.Terminal.VisualStudio"
+            },
+            {
+                "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
+                "hidden": true,
+                "name": "Ubuntu",
+                "source": "Windows.Terminal.Wsl"
+            },
+            {
+                "guid": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
+                "hidden": false,
+                "name": "kali-linux",
+                "source": "Windows.Terminal.Wsl"
             }
         ]
     },
