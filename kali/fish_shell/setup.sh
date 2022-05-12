@@ -8,3 +8,10 @@ sudo chmod +x /usr/local/bin/oh-my-posh
 echo -e "if status is-interactive\n\toh-my-posh init fish | source\noh-my-posh init fish --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/atomic.omp.json' | source\nend" > ~/.config/fish/config.fish
 exec fish
 . ~/.config/fish/config.fish
+
+sudo apt install build-essential -y
+sudo apt-get install manpages-dev -y
+
+sudo apt install python3.8 -y
+
+sudo apt install nodejs -y
