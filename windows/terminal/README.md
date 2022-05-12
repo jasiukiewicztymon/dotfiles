@@ -1,5 +1,9 @@
 # Windows terminal
 
+The final result of the console style looks like this:
+
+![image](https://user-images.githubusercontent.com/73474137/168132372-7b033920-e253-48ea-a2ea-89c7b7998a86.png)
+
 In the windows terminal I'm also using Linux terminals... You can install them from the Microsoft store.
 
 ![image](https://user-images.githubusercontent.com/73474137/167941752-76d7e4e4-1225-4b17-a115-3001d58f5a3a.png)
